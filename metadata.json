@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack",
+  "description": "FitTrack is a modern fitness and wellness tracker featuring seamless integration with popular wearable fitness devices (Fitbit, Apple Watch, Garmin), automatic sync for steps, distance, heart rate, and workouts, live step counting, exercise timers, and nutrition tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
